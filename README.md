@@ -17,6 +17,6 @@ Takes the IP and port of the server and the name of the log file as input. Greps
 
 -------------
 
-_torexitcountry_
+_torexitcountry.sh_
 
 Quick and dirty script to count Tor exit nodes by country.
