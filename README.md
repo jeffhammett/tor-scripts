@@ -13,7 +13,7 @@ Takes the name of the log file as input. Greps the log file for access via the T
 
 _checktorip.sh_
 
-Takes the IP and port of the server and the name of the log file as input. Greps the log file for access from Tor exit nodes. Requires wget and sends IP to Tor to get exit node list.
+Takes the name of the log file as input. Greps the log file for access from Tor exit nodes. Requires wget to get exit node list.
 
 -------------
 
