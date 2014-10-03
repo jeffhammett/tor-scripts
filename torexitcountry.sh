@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # requires wget and geoiplookup
-# tested on Debian Wheezy, does not yet appear to work on Mac OS 10.9.5
+# tested on Debian Wheezy
 
 wget https://check.torproject.org/exit-addresses
 
