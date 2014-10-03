@@ -1,7 +1,7 @@
-tor-log-check
+tor-scripts
 =============
 
-Scripts to check Apache log files on Debian for access via the Tor network.
+Misc scripts related to the Tor network.
 
 =============
 
