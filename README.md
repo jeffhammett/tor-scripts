@@ -20,3 +20,9 @@ Takes the name of the log file as input. Greps the log file for access from Tor 
 _torexitcountry.sh_
 
 Quick and dirty script to count Tor exit nodes by country.
+
+-------------
+
+_CheckForTorUA.ps1_
+
+Powershell script to check IIS logs for access from the Tor Browser User Agent. Checks logs from the last 24 hours.
